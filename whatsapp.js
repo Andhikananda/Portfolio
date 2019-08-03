@@ -97,7 +97,7 @@ function kirimWA(id) {
             var parameter = url_wa + '?phone=' + kode_area + nomor_whatsapp + '&text=' +
                 pesan_salam + ' ' + nama_admin + '.. ' +
                 'saya *' + nama + '*, ingin *' + judul + '*.' +
-                '%0A%0AðŸ’¬ ' + pesan + '%0A%0A' +
+                '💬 ' + pesan + '%0A%0A' +
                 'E-mail: ' + email + '%0A' +
                 'via ' + location.href;
 
